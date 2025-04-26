@@ -1,6 +1,14 @@
 # PulseScanner
 
-**PulseScanner** is a modular, passive OSINT engine for real-time monitoring of dark web and deep web onion services. It tracks forum and marketplace activity, leaked data, and keyword mentions, providing alerts and encrypted logs for threat intelligence teams.
+## About
+PulseScanner is a modular, passive OSINT engine designed for real-time monitoring of dark web and deep web onion services. It enables security teams, researchers, and organizations to:
+- Monitor multiple .onion sites via Tor
+- Detect and alert on custom keywords in real time
+- Display findings in a live dashboard and send alerts to webhooks (Discord, Slack, SIEM, etc)
+- Store alerts securely in an encrypted local database
+- Easily extend or integrate with other tools
+
+PulseScanner is ideal for threat intelligence, brand protection, and security research, with a focus on privacy, modularity, and automation.
 
 ---
 

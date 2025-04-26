@@ -8,4 +8,4 @@ schedule
 asciimatics
 selectolax
 pymongo
-spacy
+# spacy (not compatible with Python 3.13)
