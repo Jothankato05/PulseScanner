@@ -1,0 +1,9 @@
+{
+    "db_path": "pulsescanner.db",
+    "targets": [
+        "http://dread.onion",
+        "http://darknetlive.onion",
+        "http://exodus.onion"
+    ],
+    "webhook_url": "https://your.webhook.url/here"
+}

@@ -1,0 +1,11 @@
+stem
+requests[socks]
+beautifulsoup4
+rich
+cryptography
+schedule
+# Optional extras for expansion
+asciimatics
+selectolax
+pymongo
+spacy
